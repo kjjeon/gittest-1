@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         //hofix 3.3.3.4
         //hotfix 0.0.2
 
-        //asdjiasdfasdf
-        //asdfasdfasdf2123123
+
     }
 }
