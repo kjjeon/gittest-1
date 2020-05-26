@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int a = 3;
+        int c = 4;
 
         int b = 0;
         //릴리즈 1.0.0 끝!
